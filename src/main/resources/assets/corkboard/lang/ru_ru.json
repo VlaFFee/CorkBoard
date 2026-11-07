@@ -1,0 +1,20 @@
+{
+  "item.corkboard.board": "Пробковая доска",
+  "entity.corkboard.board": "Пробковая доска",
+  "itemGroup.corkboard": "Пробковые доски",
+  "item.corkboard.board.size": "Размер доски: %sx%s",
+  "item.corkboard.board.tip1": "ПКМ по стене — повесить доску",
+  "item.corkboard.board.tip2": "Shift + ПКМ в воздухе — размер (1x1…5x5); ПКМ по доске — открыть",
+  "note.corkboard.torn_strip": "Бумажная полоса",
+  "note.corkboard.newspaper": "Газета",
+  "note.corkboard.sticky_pink": "Розовый стикер",
+  "note.corkboard.sticky_green": "Зелёная записка",
+  "note.corkboard.sticky_yellow": "Жёлтая записка",
+  "note.corkboard.paper_lined": "Листок в линейку",
+  "note.corkboard.note_white": "Белая записка",
+  "note.corkboard.sketch_grid": "Набросок",
+  "gui.corkboard.delete": "Удалить",
+  "gui.corkboard.hint": "ЛКМ — взять/перетащить, колесо — наклон, ПКМ — отмена",
+  "gui.corkboard.hint_view": "Esc — закрыть",
+  "gui.corkboard.text": "Текст записки"
+}

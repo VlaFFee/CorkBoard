@@ -1,0 +1,20 @@
+{
+  "item.corkboard.board": "Cork Board",
+  "entity.corkboard.board": "Cork Board",
+  "itemGroup.corkboard": "Cork Boards",
+  "item.corkboard.board.size": "Board size: %sx%s",
+  "item.corkboard.board.tip1": "Right-click a wall to hang the board",
+  "item.corkboard.board.tip2": "Shift + right-click in air: size (1x1…5x5); right-click a board to open it",
+  "note.corkboard.torn_strip": "Torn Paper Strip",
+  "note.corkboard.newspaper": "Newspaper",
+  "note.corkboard.sticky_pink": "Pink Sticky Note",
+  "note.corkboard.sticky_green": "Green Note",
+  "note.corkboard.sticky_yellow": "Yellow Note",
+  "note.corkboard.paper_lined": "Lined Paper",
+  "note.corkboard.note_white": "White Note",
+  "note.corkboard.sketch_grid": "Sketch",
+  "gui.corkboard.delete": "Delete",
+  "gui.corkboard.hint": "LMB: pick/drag, wheel: rotate, RMB: cancel",
+  "gui.corkboard.hint_view": "Esc to close",
+  "gui.corkboard.text": "Note text"
+}
